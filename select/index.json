@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Newton",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-06T08:29:16.690112Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Huey Newton",
+      "artist": "St. Vincent",
+      "has_synced": true,
+      "path": "select/01_Huey_Newton_St._Vincent.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Newton hatte Recht",
+      "artist": "Farin Urlaub Racing Team",
+      "has_synced": true,
+      "path": "select/02_Newton_hatte_Recht_Farin_Urlaub_Racing_Team.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Physical (Glee Cast Version) (feat. Olivia Newton-John)",
+      "artist": "Glee Cast feat. Olivia Newton-John",
+      "has_synced": true,
+      "path": "select/03_Physical_(Glee_Cast_Version)_(feat._Olivia_Newton-John)_Glee_Cast_feat._Olivia_Newton-John.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Physical (Glee Cast Version featuring Olivia Newton-John)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/04_Physical_(Glee_Cast_Version_featuring_Olivia_Newton-John)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sir Isaac Newton vs Bill Nye",
+      "artist": "Epic Rap Battles of History",
+      "has_synced": false,
+      "path": "select/05_Sir_Isaac_Newton_vs_Bill_Nye_Epic_Rap_Battles_of_History.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Xanadu (with Olivia Newton-John)",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/06_Xanadu_(with_Olivia_Newton-John)_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Put Your Head On My Shoulder (feat. Olivia Newton-John)",
+      "artist": "Paul Anka feat. Olivia Newton-John",
+      "has_synced": false,
+      "path": "select/07_Put_Your_Head_On_My_Shoulder_(feat._Olivia_Newton-John)_Paul_Anka_feat._Olivia_Newton-John.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dancin' (Olivia Newton-John with The Tubes)",
+      "artist": "ELO",
+      "has_synced": false,
+      "path": "select/08_Dancin'_(Olivia_Newton-John_with_The_Tubes)_ELO.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Never Never Never (with Olivia Newton-John)",
+      "artist": "Engelbert Humperdinck",
+      "has_synced": false,
+      "path": "select/09_Never_Never_Never_(with_Olivia_Newton-John)_Engelbert_Humperdinck.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Suddenly (Olivia Newton-John with Cliff Richard)",
+      "artist": "ELO",
+      "has_synced": true,
+      "path": "select/10_Suddenly_(Olivia_Newton-John_with_Cliff_Richard)_ELO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Suspended In Time (Olivia Newton-John)",
+      "artist": "ELO",
+      "has_synced": true,
+      "path": "select/11_Suspended_In_Time_(Olivia_Newton-John)_ELO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Whenever You're Away From Me (Olivia Newton-John with Gene Kelly)",
+      "artist": "ELO",
+      "has_synced": false,
+      "path": "select/12_Whenever_You're_Away_From_Me_(Olivia_Newton-John_with_Gene_Kelly)_ELO.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Suddenly [& Olivia Newton-John]",
+      "artist": "Cliff Richard",
+      "has_synced": false,
+      "path": "select/13_Suddenly_[&_Olivia_Newton-John]_Cliff_Richard.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wishin' And Hopin' (with Olivia Newton-John)",
+      "artist": "Dionne Warwick",
+      "has_synced": false,
+      "path": "select/14_Wishin'_And_Hopin'_(with_Olivia_Newton-John)_Dionne_Warwick.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Can't Help It (Duet with Olivia Newton John)",
+      "artist": "Andy Gibb",
+      "has_synced": false,
+      "path": "select/15_I_Can't_Help_It_(Duet_with_Olivia_Newton_John)_Andy_Gibb.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Can't Help It (Duet With Olivia Newton-John)",
+      "artist": "Andy Gibb",
+      "has_synced": false,
+      "path": "select/16_I_Can't_Help_It_(Duet_With_Olivia_Newton-John)_Andy_Gibb.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Can't Help It (Duet With Olivia Newton-John)",
+      "artist": "Andy Gibb & Olivia Newton-John",
+      "has_synced": false,
+      "path": "select/17_I_Can't_Help_It_(Duet_With_Olivia_Newton-John)_Andy_Gibb_&_Olivia_Newton-John.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Face To Face (With Olivia Newton-John)",
+      "artist": "Barry Gibb",
+      "has_synced": false,
+      "path": "select/18_Face_To_Face_(With_Olivia_Newton-John)_Barry_Gibb.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "John Travolta, Olivia Newton-John - The Grease Megamix (From 'Grease')",
+      "artist": "John Travolta, Olivia Newton-John",
+      "has_synced": true,
+      "path": "select/19_John_Travolta,_Olivia_Newton-John_-_The_Grease_Megamix_(From_'Grease')_John_Travolta,_Olivia_Newton-John.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Newton",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_Newton_星街すいせい.txt"
+    }
+  ]
+}
